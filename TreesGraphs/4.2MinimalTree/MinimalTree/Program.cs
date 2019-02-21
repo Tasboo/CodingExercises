@@ -6,7 +6,7 @@ namespace MinimalTree
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("MinimalTree");
+            Console.WriteLine("Minimal Tree");
             var ints1 = new int[] {1,2,3,4,5,6,7};
             var ints2 = new int[] {8,9,10,11,12,13};
             var t1 = GetTree(ints1);
